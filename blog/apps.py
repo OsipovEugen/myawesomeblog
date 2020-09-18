@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class BlockConfig(AppConfig):
-    name = 'block'
+class BlogConfig(AppConfig):
+    name = 'blog'
